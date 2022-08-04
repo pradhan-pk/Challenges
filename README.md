@@ -19,7 +19,7 @@ Day 1: SQL Challenges
 		Call Procedure format	- CALL highest_gain();
 		Input for procedure	- N/A
 
-Day 1: Scripting Challenges
+Day 2: Scripting Challenges
 
 	d. solution4.sh
 		Problem slide number	- 11
